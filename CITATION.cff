@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: GENEX Parallel Shooting
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kenneth
+    email: kennethvmcdonald@knights.ucf.edu
+    family-names: McDonald
+    affiliation: University of Central Florida
+repository-code: 'https://github.com/kvmcd123/GENEX-Control-Solution'
